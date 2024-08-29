@@ -1,0 +1,31 @@
+<!DocType html>
+
+<html lang="en-us">
+
+<head> 
+  <title>Randy Navarrette</title>
+</head>
+
+<body>
+  <h1>Randy Navarrette<h1>
+  <h2>Student at Concordia University of Irvine</h2>
+  <p>I am <i>really</i> excited to be learning about <abbr title="Hypertext Markup Language">HTML</abbr>this year.</p>
+  <p>Class started on August 21<sup>st</sup>.</p>
+  <p>We went through the first chapters of <em>HTML&CSS: design and build websites</em> which talked about structure.</p>
+  <hr>
+  <h3><strong>Question:</strong> What do computers have in common with h<sup>2</sup>O?</h3>
+  <h4><strong>Answer:</strong><em>They freeze!</em><h4>
+  <hr>
+  <h5>Bill Gates once said,<q>"The Internet is becoming the town square for the global village tomorrow."</q></h5>
+  <p>Below is a small section of one of my favorite <abbr title="Doctor">Dr.</abbr> Seuss books.</p>
+  
+  <p>You have brains in your head.<br>
+  You have feet in your shoes.<br>
+  You can steer yourself<br>
+  any direction you choose.<br>
+  You're on your own. And you know what you know.<br>
+  And<strong>YOU</strong> are the guy who'll decide where to go.</p>
+
+</body>
+
+</html>
