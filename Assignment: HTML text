@@ -3,7 +3,7 @@
 <html lang="en-us">
 
 <head> 
-  <title>Randy Navarrette</title>
+  <title>Assignment: HTML Text/title>
 </head>
 
 <body>
@@ -13,7 +13,7 @@
   <p>Class started on August 21<sup>st</sup>.</p>
   <p>We went through the first chapters of <em>HTML&CSS: design and build websites</em> which talked about structure.</p>
   <hr>
-  <h3><strong>Question:</strong> What do computers have in common with h<sup>2</sup>O?</h3>
+  <h3><strong>Question:</strong> What do computers have in common with H<sub>2</sub>O?</h3>
   <h4><strong>Answer:</strong><em>They freeze!</em><h4>
   <hr>
   <h5>Bill Gates once said,<q>"The Internet is becoming the town square for the global village tomorrow."</q></h5>
@@ -24,7 +24,7 @@
   You can steer yourself<br>
   any direction you choose.<br>
   You're on your own. And you know what you know.<br>
-  And<strong>YOU</strong> are the guy who'll decide where to go.</p>
+  And <strong>YOU</strong> are the guy who'll decide where to go.</p>
 
 </body>
 
